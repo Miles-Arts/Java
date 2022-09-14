@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PrimeraClase
+comment0.text=Aprendo
+comment1.params=parametroR
+comment1.target=void\ main(java.lang.String[])
+comment2.params=compraA\ compraB
+comment2.target=int\ sumaDosNumeros(int,\ int)
+numComments=3
